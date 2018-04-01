@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Atomium Wallet
+Comment=Atomium wallet
+Exec=Intensecoin %U
+Terminal=false
+Type=Application
+Icon=atomium
+MimeType=x-scheme-handler/atomium;
+Categories=Office;Finance;
